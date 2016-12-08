@@ -1,4 +1,4 @@
-package com.czechscala.blank
+package com.blank
 
 import org.scalatest.FunSuite
  
